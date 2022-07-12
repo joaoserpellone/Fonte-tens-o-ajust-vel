@@ -1,2 +1,2 @@
 # Diagrama do circuito
-![alt text]
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFalstad.png)
