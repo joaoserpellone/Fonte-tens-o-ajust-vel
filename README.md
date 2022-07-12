@@ -2,7 +2,7 @@
 ![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFalstad.png)
 [Link para o circuito no falstad](https://tinyurl.com/2xk5vk7b)
 
-## Lista de compontentes:
+# Lista de compontentes:
   * Transformador: componente que é utilizado para reduzir a corrente vinda da tomada (127v em média) para valores mais baixos, em torno de 16v.
   * Ponte de diodo: utilizando-se 4 diodos (1N4007), fizemos um "cruzamento entre eles". Isso é necessário para mudar a fase negativa da corrente alternada e torná-la sempre positiva.
   * Capacitor: acumula tensão na fase de aumento da tensão interna do circuito e, na fase de diminuição libera a ddp acumulada para o circuito.
@@ -23,3 +23,8 @@
 | 1   | Potenciometro 10k| R$ 4,75|
 | 1   | Tranistor 2N3904 | R$ 0,40|
 | Total|                 | R$ 6,97|
+
+# Circuito esquemático no EAGLE
+
+
+# Circuito PCB no EAGLE 
