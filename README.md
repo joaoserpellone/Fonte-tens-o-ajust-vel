@@ -25,6 +25,7 @@
 | Total|                 | R$ 6,97|
 
 # Circuito esquemático no EAGLE
-
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/eagleEsquematico.png)
 
 # Circuito PCB no EAGLE 
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/eaglePCB.png)
