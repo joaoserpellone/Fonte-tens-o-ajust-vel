@@ -22,4 +22,4 @@
 | 1   | Diodo Zenner(13v)| R$ 0,50|
 | 1   | Potenciometro 10k| R$ 4,75|
 | 1   | Tranistor 2N3904 | R$ 0,40|
-| Total                  | R$ 6,97|
+| Total|                 | R$ 6,97|
