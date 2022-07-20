@@ -1,7 +1,7 @@
 # Fonte de Tensão ajustável 
 # Diagrama do circuito
 ![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFonteFalstad.png)
-[Link para o circuito no falstad](https://tinyurl.com/2xk5vk7b)
+[Link para o circuito no falstad](https://tinyurl.com/25pmmmge)
 
 # Lista de compontentes:
   * Transformador: componente que é utilizado para reduzir a corrente vinda da tomada (127v em média) para valores mais baixos, em torno de 16v.
