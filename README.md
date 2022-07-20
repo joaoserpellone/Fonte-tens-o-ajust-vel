@@ -30,4 +30,4 @@
 ![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/eagleEsquematico.png)
 
 # Circuito PCB no EAGLE 
-![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/eaglePCB.png)
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoEaglePCB.png)
