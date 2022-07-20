@@ -1,6 +1,6 @@
 # Fonte de Tensão ajustável 
 # Diagrama do circuito
-![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFalstad.png)
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFonteFalstad.png)
 [Link para o circuito no falstad](https://tinyurl.com/2xk5vk7b)
 
 # Lista de compontentes:
