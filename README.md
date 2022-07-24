@@ -29,5 +29,10 @@
 # Circuito esquemático no EAGLE
 ![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/eagleEsquematico.png)
 
+# Participantes 
+
+João Pedro Oliveira Serpellone - 13671848
+Vinícius Carneiro Macedo - 11915752 
+
 # Circuito PCB no EAGLE 
 ![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoEaglePCB.png)
