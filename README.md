@@ -1,6 +1,6 @@
 # Fonte de Tensão ajustável 
 # Diagrama do circuito
-![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFonteFalstad.png)
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoFalstad.png)
 [Link para o circuito no falstad](https://tinyurl.com/29xfh3vj)
 
 # Lista de compontentes:
@@ -27,7 +27,7 @@
 | Total|                 | R$ 7,13|
 
 # Circuito esquemático no EAGLE
-![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/eagleEsquematico.png)
+![alt text](https://github.com/joaoserpellone/Fonte-tens-o-ajust-vel/blob/main/circuitoEagleEsquematico.png)
 
 # Participantes 
 
